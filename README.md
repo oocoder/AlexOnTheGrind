@@ -5,10 +5,6 @@ Hope Your Enjoy! Constructive comments are welcome.
 -- Alex
 
 
-Blog was generated using jekyll tool.  Current Theme is called [flexible-jekyll](http://jekyllthemes.org/themes/flexible-jekyll/) and it was developed by Artem Sheludko 
-
-
-## Installation:
-
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+Blog was generated using [jekyll tool](https://jekyllrb.com).  
+Current Theme is called [flexible-jekyll](http://jekyllthemes.org/themes/flexible-jekyll/) and developed by Artem Sheludko. 
 
