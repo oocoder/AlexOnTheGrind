@@ -1,18 +1,11 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# This is my personal blog.  I'm using it as an archicture design choice archive but also to "pass it" forward for all the free blogs and StackOverFlow information I learned over the years. Thank You. 
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+Hope Your Enjoy! Constructive comments are welcome.  
 
-## Demo
+-- Alex
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
-The main page would look like this:
-
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+### Blog was generated using jekyll tool.  Current Theme is called [flexible-jekyll (http://jekyllthemes.org/themes/flexible-jekyll/)] and it was developed by Artem Sheludko 
 
 ## Features
 
