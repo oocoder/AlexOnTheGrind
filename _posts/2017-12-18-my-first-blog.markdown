@@ -6,19 +6,8 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 #img: i-rest.jpg # Add image post (optional)
 tags: [Tech]
 ---
-This is my first blog. 
+This is my personal blog. I'm using it as an archive to review my archictural design choices over time.  Its also my way to "pass it" forward for all the free blogs and StackOverFlow information I learned over the years. Thank You.
 
-## Header 
+Hope Your Enjoy! Constructive comments are always welcome.
 
-![Some Link]({{site.baseurl}}/assets/img/we-in-rest.jpg)
-
-
->Ignore new line for a while....
-one two. 
-
-More info
-
-* Hexagon shoreditch beard
-* Intelligentsia narwhal austin
-* Literally meditation four
-* Microdosing hoodie woke
+-- Alex
