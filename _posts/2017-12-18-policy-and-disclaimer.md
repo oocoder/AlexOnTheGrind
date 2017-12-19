@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Policy &amp; Disclaimer 
-tags: [Tech]
+tags: [Tech, Policy]
 ---
 This is my personal blog. I'm using it as a historical archive, for different tech ideas I happen to think about over time.  Its also my way to "pass it" forward for all the free blogs and StackOverFlow information I learned over the years.  Plus, it serve as something to talk about in an interview.  Because we all know they will scan this information anyways.  
 
