@@ -9,10 +9,9 @@ This is my personal blog. I'm using it as a historical archive, for different te
 It is by no means, authoritive.  Its base on my limited view of the world and pass experiences. 
 
 And now the legal stuff: 
-```
+
 Disclaimer:
-The views and opinions expressed in any of these articles are soley my own and do not necessarily reflect the official policy or position of my employer.
-``` 
+> The views and opinions expressed in any of these articles are soley my own and do not necessarily reflect the official policy or position of my employer.
 
 Hope You Enjoy it, 
 
